@@ -1,5 +1,5 @@
 {
-  "name": "simple-logger-xai",
+  "name": "@getankushtyagi/simple-logger",
   "version": "1.0.0",
   "description": "A simple, customizable logger for Node.js applications",
   "main": "dist/index.js",
